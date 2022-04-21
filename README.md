@@ -1,3 +1,7 @@
+# Overview
+
+This is a tutorial by [The Net Ninja](https://www.youtube.com/watch?v=ZSWl5UwhHcs). The course files can be found [here](https://github.com/iamshaunjp/React-Wordle).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
